@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**sandeep-krishna/sandeep-krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### <center> Hello there, I'm Sandeep krishna Donepudi 👋 </center>
 
-Here are some ideas to get you started:
+<center>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Sandeep krishna Donepudi's github stats](https://github-readme-stats.vercel.app/api?username=sandeep-krishna&show_icons=true&theme=react)
+</center>
+
+<hr>
+<div align='left'>
+
+[![Visits Badge](https://badges.pufler.dev/visits/sandeep-krishna/sandeep-krishna)](https://github.com/sandeep-krishna/sandeep-krishna)
+[![Repos Badge](https://badges.pufler.dev/repos/sandeep-krishna)](https://github.com/sandeep-krishna/sandeep-krishna)
+[![Commits Badge](https://badges.pufler.dev/commits/monthly/sandeep-krishna)](https://badges.pufler.dev)
+
+</div>
+
+
