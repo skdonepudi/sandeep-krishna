@@ -1,7 +1,23 @@
 
-### <center> Hello there, I'm Sandeep krishna Donepudi 👋 </center>
+### Hello there, I'm Sandeep krishna Donepudi 👋
 
-<center>
+```js
+import SoftwareDeveloper from 'sandeep-krishna';
+
+class Bio extends SoftwareDeveloper {
+  name     = 'Sandeep krishna Donepudi';
+  title    = 'Software Engineer';
+  location = 'Andhra Pradesh, India';
+}
+
+class Skills extends SoftwareDeveloper {
+  languages  = ['Python','R','C++','JavaScript', 'PHP'];
+  databases  = ['MySQL', 'MongoDB'];
+  frameworks = ['Tensorflow', 'PyTorch', 'Flask', 'Django'];
+  areasofinterest = ['Data Science', 'Computer Vision', 'AI' ]
+}
+```
+
 
 ![Sandeep krishna Donepudi's github stats](https://github-readme-stats.vercel.app/api?username=sandeep-krishna&show_icons=true&theme=react)
 </center>
