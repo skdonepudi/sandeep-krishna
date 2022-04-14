@@ -1,4 +1,4 @@
-## Hello, I'm [Sandeep krishna!](https://sandeepkrish.me) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img  align="right" src="https://komarev.com/ghpvc/?username=sandeep-krishna&label=Views&color=blue&style=plastic" alt="Sandeep krishna" />
+## Hello, I'm [Sandeep Krishna!](https://sandeepkrish.me) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img  align="right" src="https://komarev.com/ghpvc/?username=sandeep-krishna&label=Views&color=blue&style=plastic" alt="Sandeep krishna" />
 
 
 - 🔭 I’m currently working on [NFT's](https://en.wikipedia.org/wiki/Non-fungible_token).
