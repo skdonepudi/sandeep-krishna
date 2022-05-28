@@ -6,9 +6,9 @@
 
 
 - 🔭 I’m currently working on [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token).
-- 🌱 I’m currently learning more about Blockchain & Data Science.
-- 💬 Ask me about Python, Flutter, or any tech-related stuff.
-- 📫 How to reach me: sandeepiiitn@gmail.com
+- 🌱 I’m currently learning more about Web3 Stuff.
+- 💬 Ask me about Python, JavaScript, Rust, Flutter, or any tech-related stuff.
+- 📫 How to reach me: sandeeepdonepudi@gmail.com
 - 😄 Pronouns: He/His
 - ❤️ Open Source Software
 - ⚡ Fun fact: My first line of code was not "Hello World!"
