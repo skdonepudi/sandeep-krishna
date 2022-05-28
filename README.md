@@ -1,9 +1,13 @@
-## Hello, I'm [Sandeep Krishna!](https://sandeepkrish.me) <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> <img  align="right" src="https://komarev.com/ghpvc/?username=sandeep-krishna&label=Views&color=blue&style=plastic" alt="Sandeep krishna" />
+<h2 align="center">Hi 👋, I'm Sandeep Krishna Donepudi </h1>
+<h4 align="center">A passionate Web3 Developer and Open Source contributor  </h3>
+
+![image](https://github.com/skdonepudi/skdonepudi/blob/master/dino.gif)
 
 
-- 🔭 I’m currently working on [NFT's](https://en.wikipedia.org/wiki/Non-fungible_token).
+
+- 🔭 I’m currently working on [NFTs](https://en.wikipedia.org/wiki/Non-fungible_token).
 - 🌱 I’m currently learning more about Blockchain & Data Science.
-- 💬 Ask me about Python, Flutter or any tech-related stuff.
+- 💬 Ask me about Python, Flutter, or any tech-related stuff.
 - 📫 How to reach me: sandeepiiitn@gmail.com
 - 😄 Pronouns: He/His
 - ❤️ Open Source Software
@@ -34,12 +38,12 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br/>
 
 <a href="https://github.com/sandeep-krishna">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep-krishna&show_icons=true&theme=react" alt="Sandeep's github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=skdonepudi&show_icons=true&theme=react" alt="Sandeep's github stats"/>
   
 </a>
  
 <a href="https://github.com/sandeep-krishna">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=sandeep-krishna&layout=compact&theme=react" style="max-width:100%;" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=skdonepudi&layout=compact&theme=react" style="max-width:100%;" />
 </a>
 
 <br/>
@@ -66,5 +70,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br/>
 
-#### Show some ❤️ by starring the repositories if they help you!
+#### Show some ❤️ by starring the repositories if they help you! <img  align="right" src="https://komarev.com/ghpvc/?username=sandeep-krishna&label=Views&color=blue&style=plastic" alt="Sandeep krishna" />
+
 
