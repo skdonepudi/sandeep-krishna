@@ -1,7 +1,7 @@
 <h2 align="center">Hi 👋, I'm Sandeep Krishna Donepudi </h1>
 <h4 align="center">A passionate Web3 Developer and Open Source contributor  </h3>
 
-![image](https://github.com/skdonepudi/skdonepudi/blob/master/dino.gif)
+![image](https://github.com/skdonepudi/skdonepudi/blob/main/dino.gif)
 
 
 
