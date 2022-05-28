@@ -37,29 +37,29 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <br/>
 <br/>
 
-<a href="https://github.com/sandeep-krishna">
+<a href="https://github.com/skdonepudi">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skdonepudi&show_icons=true&theme=react" alt="Sandeep's github stats"/>
   
 </a>
  
-<a href="https://github.com/sandeep-krishna">
+<a href="https://github.com/skdonepudi">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=skdonepudi&layout=compact&theme=react" style="max-width:100%;" />
 </a>
 
 <br/>
 <br/>
 
-<div>
-  <a href="https://twitter.com/sandeep_krish">
+<div align="center">
+  <a href="https://twitter.com/skdonepudi">
     <img align="left" alt="Sandeep's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
   </a>
-  <a href="https://linkedin.com/in/sandeep-krishna">
+  <a href="https://linkedin.com/in/skdonepudi">
     <img align="left" alt="Sandeep's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://github.com/sandeep-krishna">
+  <a href="https://github.com/skdonepudi">
     <img align="left" alt="Sandeep's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
   </a>
-  <a href="https://instagram.com/sandeep.krish/">
+  <a href="https://instagram.com/skdonepudi/">
     <img align="left" alt="Sandeep's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
   <a href="https://www.facebook.com/sandeepkrishna99/">
@@ -70,6 +70,6 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 
 <br/>
 
-#### Show some ❤️ by starring the repositories if they help you! <img  align="right" src="https://komarev.com/ghpvc/?username=sandeep-krishna&label=Views&color=blue&style=plastic" alt="Sandeep krishna" />
+#### Show some ❤️ by starring the repositories if they help you! <img  align="right" src="https://komarev.com/ghpvc/?username=skdonepudi&label=Views&color=blue&style=plastic" alt="Sandeep krishna" />
 
 
